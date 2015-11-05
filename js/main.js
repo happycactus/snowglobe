@@ -9,7 +9,7 @@ var GlobeColor = color(115, 175, 230);
 var GlobeEdgeColor = lerpColor(GlobeColor, color(69, 47, 47), 0.5);
 var FlakeColor = color(13, 227, 202, 200);
 
-var hopper = getImage("cute/GemBlue");
+var hopper = getImage("http://placehold.it/100x100");
 
 translate(width / 2, height / 2);
 frameRate(FRAME_RATE);
